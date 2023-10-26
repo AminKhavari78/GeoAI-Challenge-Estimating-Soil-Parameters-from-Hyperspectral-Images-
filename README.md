@@ -5,4 +5,5 @@ The objective of this challenge is to automate the process of estimating the soi
 
 https://zindi.africa/competitions/geoai-challenge-estimating-soil-parameters-from-hyperspectral-images/data
 
-
+Experiment1----> use basic dense layers and relu activation, get same output for all input --> not working
+Experiment2---> use conv,pooling,dropout multiple times, imporove a liitle --> keep working 
